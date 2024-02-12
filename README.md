@@ -2,9 +2,20 @@
 
 Generative art for selected scifi and horror stories, as an excuse to play with Dalle v3 and ChatGPT v4.
 
-Each story has its own page with story synopsis, summarized selected scenes, and art generated for those scenes.
-
 ## Stories
 
-* [Dagon](stories/dagon/README.md), H. P. Lovecraft.
+I tried to focus on short classic horror/cosmic horror stories that are in the public domain. The initial thought was to create an illustrated short story collection, and I still may.
 
+Each story has its own page with story synopsis, summarized selected scenes, summary of illustration directions, and art generated for the selected scenes.
+
+I tried to fiddle with the generated art only minimally (e.g. regenerate like this or like that). I am interested in a generally automated process.
+
+* [Dagon](stories/dagon/README.md), H. P. Lovecraft.
+* [The Fall of the House of Usher](stories/usher/README.md), Edgar Allan Poe.
+* An Inhabitant of Carcosa, Ambrose Bierce.
+
+
+
+## Meta
+
+* [Prompt Templates](stories/prompt_templates.md)

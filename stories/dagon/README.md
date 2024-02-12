@@ -12,8 +12,6 @@ Beneath this turbulent surface, the scene transforms into a chilling underwater 
 
 ## Scenes
 
-To visually depict the main beats of H.P. Lovecraft's "Dagon" in a series of scenes, here are detailed descriptions for each scene, suitable for an illustrator to use as a guide:
-
 ### Adrift at Sea
 
 The protagonist, a World War I veteran, is adrift in a small, rickety lifeboat, surrounded by an endless expanse of ominous, grey ocean under a cloud-covered sky. His face is haggard, showing signs of distress and fatigue, as he peers into the distance, searching for any sign of salvation. The vastness of the sea and his isolation are palpable.
@@ -90,7 +88,7 @@ The composition is intimate, with the protagonist portrayed in a tight, close-up
 ![scene](scene8b.webp)
 
 
-## Reference
+## References
 
 * [Dagon (short story), Wikipedia](https://en.wikipedia.org/wiki/Dagon_(short_story)).
 * [Dagon Complete Text, The H. P. Lovecraft Archive](https://www.hplovecraft.com/writings/texts/fiction/d.aspx)

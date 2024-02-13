@@ -2,6 +2,8 @@
 
 Generative art for selected cosmic horror stories, as an excuse to play with Dalle v3 and ChatGPT v4.
 
+![cover](stories/cover.png)
+
 ## Stories
 
 I tried to focus on short classic horror/cosmic horror stories that are in the public domain. The initial thought was to create an illustrated short story collection, and I still may.

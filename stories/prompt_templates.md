@@ -37,6 +37,7 @@ Now take on the persona of a highly talented artist and illustrator.
 Re-describe each of the above scenes in terms and detail required to create a visual depiction of the scene.
 Choose one artistic style and visual medium for the series of scenes and be consistent across the scenes.
 The chosen style and medium must capture and evoke the mood of the story.
+Describe each object in the scene.
 Limit scene descriptions of each to a paragraph.
 ```
 

@@ -44,7 +44,6 @@ In a moment of profound revelation, the protagonist realizes he is no longer amo
 This scene is intimate, focusing closely on the protagonist as he gazes at his translucent hands. The background is blurred, with soft, ghostly hues suggesting the liminal space between life and death. The protagonist's expression captures the moment of realization, a complex blend of horror, acceptance, and transcendence. The use of light is crucial here, with a luminous quality that seems to emanate from within him, highlighting the ethereal nature of his existence.
 
 ![scene](scene4a.webp)
-![scene](scene4b.webp)
 
 ### The Eternal City of Carcosa
 
@@ -53,6 +52,7 @@ The final scene zooms out to reveal the full, haunting majesty of Carcosa, seen 
 The final scene is a panoramic view of Carcosa, rendered with a sense of vastness and sublime beauty. The ruins are depicted with a level of detail that invites the viewer to explore their depth and complexity, while the encroaching nature blends seamlessly into the structures, symbolizing the cycle of decay and regrowth. The sky is a tapestry of surreal colors, swirling in patterns that suggest cosmic forces beyond human comprehension. The protagonist is shown from behind, a solitary figure contemplating the eternal city, his posture reflecting resignation and a newfound peace. The scene is imbued with a sense of timelessness, capturing the essence of Carcosa as a place that transcends the mortal realm.
 
 ![scene](scene5a.webp)
+
 
 ## References
 

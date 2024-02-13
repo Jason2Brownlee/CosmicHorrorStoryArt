@@ -1,6 +1,6 @@
-# Story Art
+# Cosmic Horror Story Art
 
-Generative art for selected scifi and horror stories, as an excuse to play with Dalle v3 and ChatGPT v4.
+Generative art for selected cosmic horror stories, as an excuse to play with Dalle v3 and ChatGPT v4.
 
 ## Stories
 
@@ -13,14 +13,18 @@ I tried to fiddle with the generated art only minimally (e.g. regenerate like th
 * [Dagon](stories/dagon/README.md), H. P. Lovecraft.
 * [The Fall of the House of Usher](stories/usher/README.md), Edgar Allan Poe.
 * [An Inhabitant of Carcosa](stories/carcosa/README.md), Ambrose Bierce.
-* The Yellow Sign, Robert W. Chambers.
+* [The Yellow Sign](stories/yellowsign/README.md), Robert W. Chambers.
+* The Rats in the Walls, H. P. Lovecraft.
 
 
 ## Meta
 
 * [Prompt Templates](stories/prompt_templates.md)
 
-Thoughts and observations
+Thoughts and observations:
 
-* Consistency of objects across the generated images is an open problem.
-* Need to encourage the illustrator to be more specific about the details of the objects in the scene.
+* Use an expert to select and describe scenes. When I did this manually, I selected too many and did not understand the scenes well enough to describe them effectively.
+* Use separate roles for 1) scene selection and description, 2) illustration description, 3_illustration generation.
+* Use terms to motivate the consistency of description across scenes and the generation of imagery across scenes.
+* Use terms to encourage the illustrator to be specific about the details of the objects in the scene.
+* Generated images rarely have all elements in the description, or have them correctly, yet the images often have the right tone and are interesting.

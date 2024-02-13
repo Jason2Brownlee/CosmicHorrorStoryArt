@@ -12,10 +12,15 @@ I tried to fiddle with the generated art only minimally (e.g. regenerate like th
 
 * [Dagon](stories/dagon/README.md), H. P. Lovecraft.
 * [The Fall of the House of Usher](stories/usher/README.md), Edgar Allan Poe.
-* An Inhabitant of Carcosa, Ambrose Bierce.
-
+* [An Inhabitant of Carcosa](stories/carcosa/README.md), Ambrose Bierce.
+* The Repairer of Reputations, Robert W. Chambers.
 
 
 ## Meta
 
 * [Prompt Templates](stories/prompt_templates.md)
+
+Thoughts and observations
+
+* Consistency of objects across the generated images is an open problem.
+* Need to encourage the illustrator to be more specific about the details of the objects in the scene.

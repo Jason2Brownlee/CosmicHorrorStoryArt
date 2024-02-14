@@ -18,7 +18,7 @@ Stories are listed in the chronological order of generation, hopefully showing a
 * [The Fall of the House of Usher](stories/usher/README.md), Edgar Allan Poe.
 * [An Inhabitant of Carcosa](stories/carcosa/README.md), Ambrose Bierce.
 * [The Yellow Sign](stories/yellowsign/README.md), Robert W. Chambers.
-* [The Rats in the Walls]((stories/rats/README.md)), H. P. Lovecraft.
+* [The Rats in the Walls](stories/rats/README.md), H. P. Lovecraft.
 * The Dunwich Horror, H. P. Lovecraft.
 
 

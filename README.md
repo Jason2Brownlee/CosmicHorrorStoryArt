@@ -19,7 +19,7 @@ Stories are listed in the chronological order of generation, hopefully showing a
 * [An Inhabitant of Carcosa](stories/carcosa/README.md), Ambrose Bierce.
 * [The Yellow Sign](stories/yellowsign/README.md), Robert W. Chambers.
 * [The Rats in the Walls](stories/rats/README.md), H. P. Lovecraft.
-* The Dunwich Horror, H. P. Lovecraft.
+* [Dracula's Guest](stories/draculasguest/README.md), Bram Stoker.
 
 
 ## Meta

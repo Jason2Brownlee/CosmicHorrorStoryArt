@@ -6,7 +6,7 @@ Take on a expert persona:
 
 ```default
 Take on a persona
-You are an expert in the "[AUTHOR NAME]" and specifically "[STORY TITLE]".
+You are an expert in the horror story "[STORY TITLE]" by the author "[AUTHOR NAME]".
 Let's work together on a writing task related to the story.
 Write, "YES" to confirm.
 ```
@@ -38,9 +38,11 @@ Describe the choice in one line.
 Generate artist descriptions:
 
 ```default
-Interpret each story scene described above and re-describe each scene again in terms and detail required to create an  visual depiction of the scene.
+Interpret each story scene described above and re-describe each scene again in terms and detail required to create the best possible visual depiction of the scene.
+The scene description of the scene must standalone.
+The scene description must include the detail of the objects in the scene and their composition.
 Include mention of the artistic style listed above consistently across all scenes.
-Any major objects in each scene must include sufficient detail to be drawn according to the chosen style.
+Any major objects in each scene must include sufficient detail to be represented using the chosen style.
 Any major scene composition elements must be clearly specified.
 Limit scene descriptions of each to a paragraph.
 ```
@@ -48,7 +50,7 @@ Limit scene descriptions of each to a paragraph.
 Generate cover image artist description:
 
 ```default
-From these scenes describe a powerful image that represents a gestalt of the story that maybe used as a cover image for the story itself.
+From these scenes describe a powerful image that best represents a gestalt of the story that maybe used as a cover image for the story itself.
 The image should grand and evocative and emotionally powerful .
 Adopt the same artistic style listed above and used in the description of each scene.
 Limit the description to one paragraph.

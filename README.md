@@ -20,7 +20,7 @@ Stories are listed in the chronological order of generation, hopefully showing a
 * [The Yellow Sign](stories/yellowsign/README.md), Robert W. Chambers.
 * [The Rats in the Walls](stories/rats/README.md), H. P. Lovecraft.
 * [Dracula's Guest](stories/draculasguest/README.md), Bram Stoker.
-
+* [The Monkey's Paw](stories/monkeyspaw/README.md) by W. W. Jacobs.
 
 ## Meta
 
@@ -33,3 +33,5 @@ Thoughts and observations:
 * Use terms to motivate the consistency of description across scenes and the generation of imagery across scenes.
 * Use terms to encourage the illustrator to be specific about the details of the objects in the scene.
 * Generated images rarely have all elements in the description, or have them correctly, yet the images often have the right tone and are interesting.
+* The scene description must include as much detail as possible, including objects and their composition.
+

@@ -14,7 +14,7 @@ Write, "YES" to confirm.
 Summarize the story:
 
 ```default
-Generate an end-to-end description of the story in one paragraph.
+Write an end-to-end description of the story in one paragraph.
 ```
 
 Generate scene summaries:
@@ -38,21 +38,24 @@ Describe the choice in one line.
 Generate artist descriptions:
 
 ```default
-Interpret each story scene described above and re-describe each scene again in terms and detail required to create the best possible visual depiction of the scene.
-The scene description of the scene must standalone.
-The scene description must include the detail of the objects in the scene and their composition.
-Include mention of the artistic style listed above consistently across all scenes.
-Any major objects in each scene must include sufficient detail to be represented using the chosen style.
-Any major scene composition elements must be clearly specified.
-Limit scene descriptions of each to a paragraph.
+Interpret each story scene listed above.
+Re-describe each scene precisely in terms for a visual artist to depict.
+Each scene description must start with a one line summary of the contents of the scene.
+Each scene description must be standalone.
+Each scene description must include instructions to a visual artist regarding composition.
+Each scene description must include the detail of the objects in the scene.
+Each scene description must mention of the artistic style listed above and be used consistently across all scenes.
+If a character appears in multiple scenes describe them consistency in each occurrence.
+Limit each scene description to one paragraph.
 ```
 
 Generate cover image artist description:
 
 ```default
 From these scenes describe a powerful image that best represents a gestalt of the story that maybe used as a cover image for the story itself.
-The image should grand and evocative and emotionally powerful .
+The image should grand and evocative and emotionally powerful.
 Adopt the same artistic style listed above and used in the description of each scene.
+Describe the cover precisely in one line, followed by composition instructions and detail of all objects in the scene.
 Limit the description to one paragraph.
 ```
 
@@ -67,3 +70,5 @@ Use the artistic style "[CHOSEN STYLE]" consistency across all images that are g
 Write, "YES" to confirm.
 
 ```
+
+

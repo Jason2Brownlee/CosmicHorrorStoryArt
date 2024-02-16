@@ -21,6 +21,7 @@ Stories are listed in the chronological order of generation, hopefully showing a
 * [The Rats in the Walls](stories/rats/README.md), H. P. Lovecraft.
 * [Dracula's Guest](stories/draculasguest/README.md), Bram Stoker.
 * [The Monkey's Paw](stories/monkeyspaw/README.md) by W. W. Jacobs.
+* [The Festival](stories/festival/README.md), H. P. Lovecraft.
 
 ## Meta
 

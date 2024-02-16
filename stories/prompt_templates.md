@@ -45,6 +45,7 @@ Each scene description must be standalone.
 Each scene description must include instructions to a visual artist regarding composition.
 Each scene description must include the detail of the objects in the scene.
 Each scene description must mention of the artistic style listed above and be used consistently across all scenes.
+If the story contains a narrator, give the narrator a consistent look across all scenes.
 If a character appears in multiple scenes describe them consistency in each occurrence.
 Limit each scene description to one paragraph.
 ```

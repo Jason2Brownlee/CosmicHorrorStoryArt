@@ -22,6 +22,14 @@ Stories are listed in the chronological order of generation, hopefully showing a
 * [Dracula's Guest](stories/draculasguest/README.md), Bram Stoker.
 * [The Monkey's Paw](stories/monkeyspaw/README.md) by W. W. Jacobs.
 * [The Festival](stories/festival/README.md), H. P. Lovecraft.
+* [In The Court Of The Dragon](stories/dragon/README.md), Robert W. Chambers.
+* The Outsider, H. P. Lovecraft.
+* Pickman's Model, H. P. Lovecraft.
+* Beyond the Wall of Sleep, H. P. Lovecraft.
+* The Music of Erich Zann, H. P. Lovecraft.
+* The Tomb, H. P. Lovecraft.
+* The Mask, Robert W. Chambers.
+* The Repairer of Reputations, Robert W. Chambers.
 
 ## Meta
 

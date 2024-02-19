@@ -91,7 +91,7 @@ In a twist, the story closes with the narrator awakening as if from a nightmare,
 The narrator awakens in the church pew, the service ending peacefully around him. This scene should mirror the first, with the serene church atmosphere restored, but with subtle hints of the preceding horror — perhaps a shadow or a figure in the background that doesn't quite belong. The narrator's weary, haunted expression suggests the ordeal's impact, leaving the viewer questioning the nature of his experience.
 
 ![scene](scene9a.webp)
-![scene](scene9b.webp)
+
 
 ## References
 

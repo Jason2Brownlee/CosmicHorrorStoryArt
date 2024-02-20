@@ -2,6 +2,8 @@
 
 Generative art for selected cosmic horror stories, as an excuse to play with Dalle v3 and ChatGPT v4.
 
+This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood.substack.com/) and [Interviews With Technical Experts](https://github.com/Jason2Brownlee/TechnicalExperts).
+
 ![cover](stories/cover.png)
 
 ## Stories
@@ -24,12 +26,27 @@ Stories are listed in the chronological order of generation, hopefully showing a
 * [The Festival](stories/festival/README.md), H. P. Lovecraft.
 * [In The Court Of The Dragon](stories/dragon/README.md), Robert W. Chambers.
 * [The Outsider](stories/outsider/README.md), H. P. Lovecraft.
+* [The Great God Pan](stories/greatgodpan/README.md), Arthur Machen.
 * Pickman's Model, H. P. Lovecraft.
 * Beyond the Wall of Sleep, H. P. Lovecraft.
 * The Music of Erich Zann, H. P. Lovecraft.
 * The Tomb, H. P. Lovecraft.
 * The Mask, Robert W. Chambers.
 * The Repairer of Reputations, Robert W. Chambers.
+* The Willows, Algernon Blackwood.
+* The Man Who Found Out, Algernon Blackwood.
+* The White People, Arthur Machen.
+* The Turn of the Screw, Henry James.
+* The Derelict, William Hope Hodgson.
+* The Call of Cthulhu, H. P. Lovecraft.
+* The Shadow Over Innsmouth, H. P. Lovecraft.
+* At the Mountains of Madness, H. P. Lovecraft.
+* The Dunwich Horror, H. P. Lovecraft.
+* The Colour Out of Space, H. P. Lovecraft.
+* The Whisperer in Darkness, H. P. Lovecraft.
+* The Shadow Out of Time, H. P. Lovecraft.
+* The Haunter of the Dark, H. P. Lovecraft.
+* The Thing on the Doorstep, H. P. Lovecraft.
 
 ## Meta
 

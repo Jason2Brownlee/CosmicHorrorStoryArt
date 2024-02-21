@@ -27,7 +27,7 @@ Stories are listed in the chronological order of generation, hopefully showing a
 * [In The Court Of The Dragon](stories/dragon/README.md), Robert W. Chambers.
 * [The Outsider](stories/outsider/README.md), H. P. Lovecraft.
 * [The Great God Pan](stories/greatgodpan/README.md), Arthur Machen.
-* Pickman's Model, H. P. Lovecraft.
+* [Pickman's Model](stories/pickman/README.md), H. P. Lovecraft.
 * Beyond the Wall of Sleep, H. P. Lovecraft.
 * The Music of Erich Zann, H. P. Lovecraft.
 * The Tomb, H. P. Lovecraft.

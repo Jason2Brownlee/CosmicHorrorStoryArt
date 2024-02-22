@@ -4,7 +4,7 @@ Generative art for selected cosmic horror stories, as an excuse to play with Dal
 
 This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood.substack.com/) and [Interviews With Technical Experts](https://github.com/Jason2Brownlee/TechnicalExperts).
 
-<img src="stories/cover.png" width="500" align="center">
+<img src="stories/cover.png" width="500" >
 
 ## Stories
 
@@ -16,6 +16,8 @@ I tried to fiddle with the generated art only minimally (e.g. regenerate like th
 
 Stories are listed in the chronological order of generation, hopefully showing an improvement in methods and results.
 
+| Preview | Story |
+| ------- | ----- |
 | <a href="stories/dagon/README.md"><img src="stories/dagon/scene3c.webp" width="300"></a> | [Dagon](stories/dagon/README.md), H. P. Lovecraft. |
 | <a href="stories/usher/README.md"><img src="stories/usher/scene5a.webp" width="300"></a> | [The Fall of the House of Usher](stories/usher/README.md), Edgar Allan Poe. |
 

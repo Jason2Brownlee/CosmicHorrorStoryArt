@@ -20,39 +20,35 @@ Stories are listed in the chronological order of generation, hopefully showing a
 | ------- | ----- |
 | <a href="stories/dagon/README.md"><img src="stories/dagon/scene3c.webp" width="300"></a> | [Dagon](stories/dagon/README.md), H. P. Lovecraft. |
 | <a href="stories/usher/README.md"><img src="stories/usher/scene5a.webp" width="300"></a> | [The Fall of the House of Usher](stories/usher/README.md), Edgar Allan Poe. |
-
-
-* [Dagon](stories/dagon/README.md), H. P. Lovecraft.
-* [The Fall of the House of Usher](stories/usher/README.md), Edgar Allan Poe.
-* [An Inhabitant of Carcosa](stories/carcosa/README.md), Ambrose Bierce.
-* [The Yellow Sign](stories/yellowsign/README.md), Robert W. Chambers.
-* [The Rats in the Walls](stories/rats/README.md), H. P. Lovecraft.
-* [Dracula's Guest](stories/draculasguest/README.md), Bram Stoker.
-* [The Monkey's Paw](stories/monkeyspaw/README.md) by W. W. Jacobs.
-* [The Festival](stories/festival/README.md), H. P. Lovecraft.
-* [In The Court Of The Dragon](stories/dragon/README.md), Robert W. Chambers.
-* [The Outsider](stories/outsider/README.md), H. P. Lovecraft.
-* [The Great God Pan](stories/greatgodpan/README.md), Arthur Machen.
-* [Pickman's Model](stories/pickman/README.md), H. P. Lovecraft.
-* [Beyond the Wall of Sleep](stories/wallofsleep/README.md), H. P. Lovecraft.
-* The Music of Erich Zann, H. P. Lovecraft.
-* The Tomb, H. P. Lovecraft.
-* The Mask, Robert W. Chambers.
-* The Repairer of Reputations, Robert W. Chambers.
-* The Willows, Algernon Blackwood.
-* The Man Who Found Out, Algernon Blackwood.
-* The White People, Arthur Machen.
-* The Turn of the Screw, Henry James.
-* The Derelict, William Hope Hodgson.
-* The Call of Cthulhu, H. P. Lovecraft.
-* The Shadow Over Innsmouth, H. P. Lovecraft.
-* At the Mountains of Madness, H. P. Lovecraft.
-* The Dunwich Horror, H. P. Lovecraft.
-* The Colour Out of Space, H. P. Lovecraft.
-* The Whisperer in Darkness, H. P. Lovecraft.
-* The Shadow Out of Time, H. P. Lovecraft.
-* The Haunter of the Dark, H. P. Lovecraft.
-* The Thing on the Doorstep, H. P. Lovecraft.
+| <a href="stories/carcosa/README.md"><img src="stories/carcosa/cover.webp" width="300"></a> |  [An Inhabitant of Carcosa](stories/carcosa/README.md), Ambrose Bierce. |
+| <a href="stories/yellowsign/README.md"><img src="stories/yellowsign/scene5a.webp" width="300"></a> |  [The Yellow Sign](stories/yellowsign/README.md), Robert W. Chambers. |
+| <a href="stories/rats/README.md"><img src="stories/rats/scene5b.webp" width="300"></a> |  [The Rats in the Walls](stories/rats/README.md), H. P. Lovecraft. |
+| <a href="stories/draculasguest/README.md"><img src="stories/draculasguest/cover1.webp" width="300"></a> |  [Dracula's Guest](stories/draculasguest/README.md), Bram Stoker. |
+| <a href="stories/monkeyspaw/README.md"><img src="stories/monkeyspaw/scene5a.webp" width="300"></a> |  [The Monkey's Paw](stories/monkeyspaw/README.md) by W. W. Jacobs. |
+| <a href="stories/festival/README.md"><img src="stories/festival/scene6a.webp" width="300"></a> |  [The Festival](stories/festival/README.md), H. P. Lovecraft. |
+| <a href="stories/dragon/README.md"><img src="stories/dragon/scene3a.webp" width="300"></a> |  [In The Court Of The Dragon](stories/dragon/README.md), Robert W. Chambers. |
+| <a href="stories/outsider/README.md"><img src="stories/outsider/scene7a.webp" width="300"></a> |  [The Outsider](stories/outsider/README.md), H. P. Lovecraft. |
+| <a href="stories/greatgodpan/README.md"><img src="stories/greatgodpan/scene6b.webp" width="300"></a> |  [The Great God Pan](stories/greatgodpan/README.md), Arthur Machen. |
+| <a href="stories/pickman/README.md"><img src="stories/pickman/scene2a.webp" width="300"></a> |  [Pickman's Model](stories/pickman/README.md), H. P. Lovecraft. |
+| <a href="stories/wallofsleep/README.md"><img src="stories/wallofsleep/scene4b.webp" width="300"></a> |  [Beyond the Wall of Sleep](stories/wallofsleep/README.md), H. P. Lovecraft. |
+| n/a |  The Music of Erich Zann, H. P. Lovecraft. |
+| n/a |  The Tomb, H. P. Lovecraft. |
+| n/a |  The Mask, Robert W. Chambers. |
+| n/a |  The Repairer of Reputations, Robert W. Chambers. |
+| n/a |  The Willows, Algernon Blackwood. |
+| n/a |  The Man Who Found Out, Algernon Blackwood. |
+| n/a |  The White People, Arthur Machen. |
+| n/a |  The Turn of the Screw, Henry James. |
+| n/a |  The Derelict, William Hope Hodgson. |
+| n/a |  The Call of Cthulhu, H. P. Lovecraft. |
+| n/a |  The Shadow Over Innsmouth, H. P. Lovecraft. |
+| n/a |  At the Mountains of Madness, H. P. Lovecraft. |
+| n/a |  The Dunwich Horror, H. P. Lovecraft. |
+| n/a |  The Colour Out of Space, H. P. Lovecraft. |
+| n/a |  The Whisperer in Darkness, H. P. Lovecraft. |
+| n/a |  The Shadow Out of Time, H. P. Lovecraft. |
+| n/a |  The Haunter of the Dark, H. P. Lovecraft. |
+| n/a |  The Thing on the Doorstep, H. P. Lovecraft. |
 
 ## Meta
 

@@ -4,7 +4,7 @@ Generative art for selected cosmic horror stories, as an excuse to play with Dal
 
 This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood.substack.com/) and [Interviews With Technical Experts](https://github.com/Jason2Brownlee/TechnicalExperts).
 
-![cover](stories/cover.png =x500)
+<img src="stories/cover.png" width="500">
 
 ## Stories
 

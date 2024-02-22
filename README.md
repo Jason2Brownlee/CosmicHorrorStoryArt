@@ -31,7 +31,7 @@ Stories are listed in the chronological order of generation, hopefully showing a
 | <a href="stories/greatgodpan/README.md"><img src="stories/greatgodpan/scene6b.webp" width="300"></a> |  [The Great God Pan](stories/greatgodpan/README.md), Arthur Machen. |
 | <a href="stories/pickman/README.md"><img src="stories/pickman/scene2a.webp" width="300"></a> |  [Pickman's Model](stories/pickman/README.md), H. P. Lovecraft. |
 | <a href="stories/wallofsleep/README.md"><img src="stories/wallofsleep/scene4b.webp" width="300"></a> |  [Beyond the Wall of Sleep](stories/wallofsleep/README.md), H. P. Lovecraft. |
-| n/a |  The Music of Erich Zann, H. P. Lovecraft. |
+| <a href="stories/erichzann/README.md"><img src="stories/erichzann/cover1a.webp" width="300"></a> |  [The Music of Erich Zann](stories/erichzann/README.md), H. P. Lovecraft. |
 | n/a |  The Tomb, H. P. Lovecraft. |
 | n/a |  The Mask, Robert W. Chambers. |
 | n/a |  The Repairer of Reputations, Robert W. Chambers. |

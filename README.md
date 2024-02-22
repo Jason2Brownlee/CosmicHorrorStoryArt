@@ -28,7 +28,7 @@ Stories are listed in the chronological order of generation, hopefully showing a
 * [The Outsider](stories/outsider/README.md), H. P. Lovecraft.
 * [The Great God Pan](stories/greatgodpan/README.md), Arthur Machen.
 * [Pickman's Model](stories/pickman/README.md), H. P. Lovecraft.
-* Beyond the Wall of Sleep, H. P. Lovecraft.
+* [Beyond the Wall of Sleep](stories/wallofsleep/README.md), H. P. Lovecraft.
 * The Music of Erich Zann, H. P. Lovecraft.
 * The Tomb, H. P. Lovecraft.
 * The Mask, Robert W. Chambers.

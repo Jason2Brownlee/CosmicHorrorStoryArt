@@ -32,6 +32,7 @@ Take on a artist persona:
 ```default
 Take on the persona of a highly talented visual artist.
 Consider and then select one artistic style and visual medium that best captures and evokes the mood of the story.
+Do not choose a cliche style, make a creative choice.
 Describe the choice in one line.
 ```
 
@@ -44,7 +45,7 @@ Each scene description must start with a one line summary of the contents of the
 Each scene description must be standalone.
 Each scene description must include instructions to a visual artist regarding composition.
 Each scene description must include the detail of the objects in the scene.
-Each scene description must mention of the artistic style listed above and be used consistently across all scenes.
+Each scene description must mention of the artistic style "[STYLE]" and use it consistently across all scenes.
 If the story contains a narrator, give the narrator a consistent look across all scenes.
 If a character appears in multiple scenes describe them consistency in each occurrence.
 Limit each scene description to one paragraph.

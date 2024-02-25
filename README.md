@@ -8,13 +8,13 @@ This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood
 
 ## Stories
 
-I tried to focus on short classic horror/cosmic horror stories that are in the public domain. The initial thought was to create an illustrated short story collection, and I still may.
-
 Each story has its own page with story synopsis, summarized selected scenes, summary of illustration directions, and art generated for the selected scenes.
 
-I tried to fiddle with the generated art only minimally (e.g. regenerate like this or like that). I am interested in a generally automated process.
+I focused on short classic horror/cosmic horror stories that are in the public domain. The initial thought was to create an illustrated short story collection, and I still may. I fiddled with the generated art only minimally (e.g. regenerate like this or like that). I am interested in a generally automated process.
 
 Stories are listed in the chronological order of generation, hopefully showing an improvement in methods and results.
+
+Click the preview to see all art for each story.
 
 | Preview | Story |
 | ------- | ----- |
@@ -32,7 +32,7 @@ Stories are listed in the chronological order of generation, hopefully showing a
 | <a href="stories/pickman/README.md"><img src="stories/pickman/scene2a.webp" width="300"></a> |  [Pickman's Model](stories/pickman/README.md), H. P. Lovecraft. |
 | <a href="stories/wallofsleep/README.md"><img src="stories/wallofsleep/scene4b.webp" width="300"></a> |  [Beyond the Wall of Sleep](stories/wallofsleep/README.md), H. P. Lovecraft. |
 | <a href="stories/erichzann/README.md"><img src="stories/erichzann/cover1a.webp" width="300"></a> |  [The Music of Erich Zann](stories/erichzann/README.md), H. P. Lovecraft. |
-| n/a |  The Tomb, H. P. Lovecraft. |
+| <a href="stories/tomb/README.md"><img src="stories/tomb/cover1b.webp" width="300"></a> |  [The Tomb](stories/tomb/README.md), H. P. Lovecraft. |
 | n/a |  The Mask, Robert W. Chambers. |
 | n/a |  The Repairer of Reputations, Robert W. Chambers. |
 | n/a |  The Willows, Algernon Blackwood. |

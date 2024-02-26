@@ -33,7 +33,7 @@ Click the preview to see all art for each story.
 | <a href="stories/wallofsleep/README.md"><img src="stories/wallofsleep/scene4b.webp" width="300"></a> |  [Beyond the Wall of Sleep](stories/wallofsleep/README.md), H. P. Lovecraft. |
 | <a href="stories/erichzann/README.md"><img src="stories/erichzann/cover1a.webp" width="300"></a> |  [The Music of Erich Zann](stories/erichzann/README.md), H. P. Lovecraft. |
 | <a href="stories/tomb/README.md"><img src="stories/tomb/cover1b.webp" width="300"></a> |  [The Tomb](stories/tomb/README.md), H. P. Lovecraft. |
-| n/a |  The Mask, Robert W. Chambers. |
+| <a href="stories/mask/README.md"><img src="stories/mask/scene6b.webp" width="300"></a> |  [The Mask](stories/mask/README.md), Robert W. Chambers. |
 | n/a |  The Repairer of Reputations, Robert W. Chambers. |
 | n/a |  The Willows, Algernon Blackwood. |
 | n/a |  The Man Who Found Out, Algernon Blackwood. |

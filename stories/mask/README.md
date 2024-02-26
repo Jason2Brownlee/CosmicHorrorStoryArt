@@ -8,8 +8,8 @@
 
 A hauntingly beautiful image of Genevieve's transformation, caught between her human form and golden statue, with Alec and Boris on either side, amidst the mystical garden under a moonlit sky. Impressionist digital painting. The cover should capture the moment of Genevieve's transformation, her figure illuminated by a surreal, golden light that hints at both the beauty and the tragedy of her fate. Half of her body is rendered in detailed, lifelike textures, while the other half transitions into a brilliant, metallic gold, symbolizing the duality of life and art. Alec and Boris are positioned on either side of her, reflecting their roles in her transformation: Alec, with an expression of desperate hope, and Boris, marked by sorrow and disbelief. The background is the lush, enigmatic garden, painted with rich, vibrant colors and shadowy contrasts under a full moon, adding layers of mystery and foreboding to the scene. This image encapsulates the essence of the story, highlighting the themes of love, sacrifice, and the supernatural, making it a compelling and visually striking cover.
 
-![cover](cover1a.web)
-![cover](cover2a.web)
+![cover](cover1a.webp)
+![cover](cover2a.webp)
 
 ## Scenes
 
@@ -19,8 +19,8 @@ The scene is set in a lush, overgrown garden belonging to Boris, a talented scul
 
 A serene, overgrown garden filled with a blend of ancient and modern sculptures, centered around a mysterious marble basin. Impressionist digital painting. Capture the lush, vibrant greenery with textured brushstrokes, emphasizing the contrast between the organic forms of nature and the stillness of the sculptures. The marble basin should appear almost luminescent, hinting at its mystical qualities. Boris, Alec, and Genevieve are depicted with soft, glowing outlines, their expressions thoughtful, hinting at deep, unspoken bonds. Boris is tall, with a contemplative gaze; Alec, slightly leaner, carries an air of quiet intensity; Genevieve is graceful, her demeanor gentle yet melancholic.
 
-![scene](scene1a.web)
-![scene](scene1b.web)
+![scene](scene1a.webp)
+![scene](scene1b.webp)
 
 ### The Revelation of the Solution
 
@@ -28,8 +28,8 @@ Inside Boris's dimly lit studio, cluttered with sculptures and artistic tools, B
 
 Boris's cluttered studio, illuminated by the eerie glow of the solution. Impressionist digital painting. Use luminous color palettes to highlight the clear liquid's unnatural glow against the dark backdrop of the studio. Boris, with his contemplative gaze, demonstrates the solution’s power on a small creature, surrounded by an array of sculptures and artistic chaos. The composition should focus on Boris's hands pouring the solution, the creature, and the fascinated yet apprehensive expressions of Alec and Genevieve, maintaining their consistent looks.
 
-![scene](scene2a.web)
-![scene](scene2b.web)
+![scene](scene2a.webp)
+![scene](scene2b.webp)
 
 ### Alec's Experimentation
 
@@ -37,8 +37,8 @@ In a scene filled with curiosity and foreboding, Alec experiments with the solut
 
 Alec alone in the dimly lit studio, surrounded by objects turned to gold and marble. Impressionist digital painting. Illuminate the scene with soft, reflective light from the transformed objects, casting Alec's face in a mix of wonder and shadow. The detailed brushstrokes should create a sense of isolation around Alec, emphasizing his obsession. Objects of experimentation should include a variety of forms, from flowers to small animals, showcasing the eerie beauty of the transformation.
 
-![scene](scene3a.web)
-![scene](scene3b.web)
+![scene](scene3a.webp)
+![scene](scene3b.webp)
 
 ### The Love Confession
 
@@ -46,8 +46,8 @@ A deeply emotional scene where Alec, tormented by his unspoken love for Geneviev
 
 Alec confesses his love to Genevieve in the garden, under the moonlight. Impressionist digital painting. This intimate scene should be lit by a soft, moonlit glow, with shadows and light playing across the characters’ faces. Alec, depicted with an intense, earnest expression, reaches out towards Genevieve, who is caught in a moment of compassion and sorrow. The garden around them should be painted with vibrant yet soft colors, highlighting the emotional tension of the moment.
 
-![scene](scene4a.web)
-![scene](scene4b.web)
+![scene](scene4a.webp)
+![scene](scene4b.webp)
 
 ### Genevieve's Illness
 
@@ -55,8 +55,8 @@ In a somber bedroom, Genevieve lies ill, her condition worsening, casting a shad
 
 Genevieve lying ill in her dimly lit bedroom, surrounded by signs of her condition. Impressionist digital painting. The scene should be painted with muted, somber colors, focusing on Genevieve's frail form on the bed. Details like medicine bottles, a dim lamp, and her pale, drawn face should be rendered with delicate brushstrokes, emphasizing the gravity of her illness. Alec and Boris, depicted with expressions of concern and helplessness, stand by her bedside, consistent in appearance with previous scenes.
 
-![scene](scene5a.web)
-![scene](scene5b.web)
+![scene](scene5a.webp)
+![scene](scene5b.webp)
 
 ### The Transformation of Genevieve
 
@@ -64,8 +64,8 @@ A pivotal and dramatic scene where, in a desperate attempt to save her, Alec app
 
 Genevieve transformed into a statue of gold, with Alec and Boris witnessing the event in shock and awe. Impressionist digital painting. Use vibrant, reflective gold tones to depict Genevieve's statue, contrasting sharply with the dark, somber colors of the studio. Alec's expression should be a mix of horror and fascination, while Boris is portrayed in a state of grief and disbelief. The composition should focus on the transformation moment, capturing the emotional intensity and the supernatural aspect of the scene.
 
-![scene](scene6a.web)
-![scene](scene6b.web)
+![scene](scene6a.webp)
+![scene](scene6b.webp)
 
 ### Boris's Grief and Discovery
 
@@ -73,8 +73,8 @@ Boris, overwhelmed by grief and betrayal, confronts Alec in the studio, where Ge
 
 Boris confronts Alec in the studio, with Genevieve's golden statue as a backdrop. Impressionist digital painting. The tension between Boris and Alec should be the focal point, with Boris's grief-stricken face and Alec's guilt-ridden expression captured in the glow of the statue. The studio should appear more like a tomb, with shadows and the golden glow emphasizing the tragic beauty of the statue. The detailed brushstrokes should convey the chaos of emotions and the pivotal nature of the confrontation.
 
-![scene](scene7a.web)
-![scene](scene7b.web)
+![scene](scene7a.webp)
+![scene](scene7b.webp)
 
 ### The Resurrection of Genevieve
 
@@ -82,8 +82,8 @@ In a miraculous turn of events, Genevieve is restored to life from her golden st
 
 Genevieve awakens from her golden statue form, surrounded by Alec and Boris in a room filled with light. Impressionist digital painting. This scene should be bathed in a soft, radiant light, symbolizing hope and renewal. Genevieve, still graceful but now imbued with life, should be in the process of emerging from her golden shell, with Alec and Boris portrayed in expressions of joy and disbelief. The emphasis on light and color should convey the miraculous nature of her resurrection.
 
-![scene](scene8a.web)
-![scene](scene8b.web)
+![scene](scene8a.webp)
+![scene](scene8b.webp)
 
 ### The Aftermath and Reflection
 
@@ -91,8 +91,8 @@ The final scene is set in the garden, now in the serene light of dawn. Alec, Gen
 
 The three characters reunited in the garden at dawn, reflecting on their experiences. Impressionist digital painting. Depict this scene with a serene, early morning light, highlighting the peacefulness of the garden and the changed dynamics among the characters. Their expressions should be contemplative, with subtle hints of the journey they have undergone. The garden should appear reborn, with vibrant colors and soft lighting symbolizing a new beginning.
 
-![scene](scene9a.web)
-![scene](scene9b.web)
+![scene](scene9a.webp)
+![scene](scene9b.webp)
 
 ### The Closing Image
 
@@ -100,6 +100,6 @@ A solitary scene focusing on the marble basin, now empty, symbolizing the end of
 
 The empty marble basin in the garden, with the first rays of dawn casting long shadows. Impressionist digital painting. Focus on the marble basin as the central element, now empty, symbolizing closure and the end of the magical events. The garden should be depicted in tranquil colors of dawn, with the play of light and shadow creating a peaceful yet slightly melancholic atmosphere. This final scene closes the story on a note of contemplation and the enduring mystery of the events that unfolded.
 
-![scene](scene10a.web)
-![scene](scene10b.web)
+![scene](scene10a.webp)
+![scene](scene10b.webp)
 

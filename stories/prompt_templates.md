@@ -20,7 +20,7 @@ Write an end-to-end description of the story in one paragraph.
 Generate scene summaries:
 
 ```default
-Split the story in about 10 or fewer scenes.
+Split the story into 10 or fewer main scenes.
 The series of scenes should tell the main beats of the story from beginning to end.
 The selected scene should be sufficient for a reader to reconstruct the backbone of the story.
 Describe each of the chosen scenes in sufficient detail that an illustrator may use the description to recreate the scene visually.
@@ -33,6 +33,7 @@ Take on a artist persona:
 Take on the persona of a highly talented visual artist.
 Consider and then select one artistic style and visual medium that best captures and evokes the mood of the story.
 Do not choose a cliche style, make a creative choice.
+Choose a style that includes color.
 Describe the choice in one line.
 ```
 
@@ -45,7 +46,7 @@ Each scene description must start with a one line summary of the contents of the
 Each scene description must be standalone.
 Each scene description must include instructions to a visual artist regarding composition.
 Each scene description must include the detail of the objects in the scene.
-Each scene description must mention of the artistic style "[STYLE]" and use it consistently across all scenes.
+Each scene description must mention of the artistic style "[CHOSEN STYLE]" and use it consistently across all scenes.
 If the story contains a narrator, give the narrator a consistent look across all scenes.
 If a character appears in multiple scenes describe them consistency in each occurrence.
 Limit each scene description to one paragraph.

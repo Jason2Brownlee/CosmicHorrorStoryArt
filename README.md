@@ -2,8 +2,6 @@
 
 Generative art for selected cosmic horror stories, as an excuse to play with Dalle v3 and ChatGPT v4.
 
-This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood.substack.com/) and [Interviews With Technical Experts](https://github.com/Jason2Brownlee/TechnicalExperts).
-
 <img src="stories/cover.png" width="500" >
 
 ## Stories
@@ -34,7 +32,7 @@ Click the preview to see all art for each story.
 | <a href="stories/erichzann/README.md"><img src="stories/erichzann/cover1a.webp" width="300"></a> |  [The Music of Erich Zann](stories/erichzann/README.md), H. P. Lovecraft. |
 | <a href="stories/tomb/README.md"><img src="stories/tomb/cover1b.webp" width="300"></a> |  [The Tomb](stories/tomb/README.md), H. P. Lovecraft. |
 | <a href="stories/mask/README.md"><img src="stories/mask/scene6b.webp" width="300"></a> |  [The Mask](stories/mask/README.md), Robert W. Chambers. |
-| n/a |  The Repairer of Reputations, Robert W. Chambers. |
+| <a href="stories/reputations/README.md"><img src="stories/reputations/cover1a.webp" width="300"></a> |  [The Repairer of Reputations](stories/reputations/README.md), Robert W. Chambers. |
 | n/a |  The Willows, Algernon Blackwood. |
 | n/a |  The Man Who Found Out, Algernon Blackwood. |
 | n/a |  The White People, Arthur Machen. |
@@ -63,3 +61,4 @@ Thoughts and observations:
 * Generated images rarely have all elements in the description, or have them correctly, yet the images often have the right tone and are interesting.
 * The scene description must include as much detail as possible, including objects and their composition.
 
+This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood.substack.com/) and [Interviews With Technical Experts](https://github.com/Jason2Brownlee/TechnicalExperts).

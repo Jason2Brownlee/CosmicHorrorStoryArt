@@ -33,7 +33,7 @@ Click the preview to see all art for each story.
 | <a href="stories/tomb/README.md"><img src="stories/tomb/cover1b.webp" width="300"></a> |  [The Tomb](stories/tomb/README.md), H. P. Lovecraft. |
 | <a href="stories/mask/README.md"><img src="stories/mask/scene6b.webp" width="300"></a> |  [The Mask](stories/mask/README.md), Robert W. Chambers. |
 | <a href="stories/reputations/README.md"><img src="stories/reputations/cover1a.webp" width="300"></a> |  [The Repairer of Reputations](stories/reputations/README.md), Robert W. Chambers. |
-| <a href="stories/willows/README.md"><img src="stories/willows/cover10a.webp" width="300"></a> |  [The Willows](stories/willows/README.md), Algernon Blackwood. |
+| <a href="stories/willows/README.md"><img src="stories/willows/scene10a.webp" width="300"></a> |  [The Willows](stories/willows/README.md), Algernon Blackwood. |
 | n/a |  The Man Who Found Out, Algernon Blackwood. |
 | n/a |  The White People, Arthur Machen. |
 | n/a |  The Turn of the Screw, Henry James. |

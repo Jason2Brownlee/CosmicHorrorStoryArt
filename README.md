@@ -34,19 +34,19 @@ Click the preview to see all art for each story.
 | <a href="stories/mask/README.md"><img src="stories/mask/scene6b.webp" width="300"></a> |  [The Mask](stories/mask/README.md), Robert W. Chambers. |
 | <a href="stories/reputations/README.md"><img src="stories/reputations/cover1a.webp" width="300"></a> |  [The Repairer of Reputations](stories/reputations/README.md), Robert W. Chambers. |
 | <a href="stories/willows/README.md"><img src="stories/willows/scene10a.webp" width="300"></a> |  [The Willows](stories/willows/README.md), Algernon Blackwood. |
-| n/a |  The Man Who Found Out, Algernon Blackwood. |
+| <a href="stories/foundout/README.md"><img src="stories/foundout/cover1b.webp" width="300"></a> |  [The Man Who Found Out](stories/foundout/README.md), Algernon Blackwood. |
 | n/a |  The White People, Arthur Machen. |
 | n/a |  The Turn of the Screw, Henry James. |
 | n/a |  The Derelict, William Hope Hodgson. |
-| n/a |  The Call of Cthulhu, H. P. Lovecraft. |
 | n/a |  The Shadow Over Innsmouth, H. P. Lovecraft. |
-| n/a |  At the Mountains of Madness, H. P. Lovecraft. |
 | n/a |  The Dunwich Horror, H. P. Lovecraft. |
 | n/a |  The Colour Out of Space, H. P. Lovecraft. |
 | n/a |  The Whisperer in Darkness, H. P. Lovecraft. |
 | n/a |  The Shadow Out of Time, H. P. Lovecraft. |
 | n/a |  The Haunter of the Dark, H. P. Lovecraft. |
 | n/a |  The Thing on the Doorstep, H. P. Lovecraft. |
+| n/a |  At the Mountains of Madness, H. P. Lovecraft. |
+| n/a |  The Call of Cthulhu, H. P. Lovecraft. |
 
 ## Meta
 

@@ -20,7 +20,7 @@ Write an end-to-end description of the story in one paragraph.
 Generate scene summaries:
 
 ```default
-Split the story into 10 or fewer main scenes.
+Split the story into between 5 and 10 main scenes.
 The series of scenes should tell the main beats of the story from beginning to end.
 The selected scene should be sufficient for a reader to reconstruct the backbone of the story.
 Describe each of the chosen scenes in sufficient detail that an illustrator may use the description to recreate the scene visually.

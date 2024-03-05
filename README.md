@@ -36,7 +36,7 @@ Click the preview to see all art for each story.
 | <a href="stories/willows/README.md"><img src="stories/willows/scene10a.webp" width="300"></a> |  [The Willows](stories/willows/README.md), Algernon Blackwood. |
 | <a href="stories/foundout/README.md"><img src="stories/foundout/cover1b.webp" width="300"></a> |  [The Man Who Found Out](stories/foundout/README.md), Algernon Blackwood. |
 | <a href="stories/white/README.md"><img src="stories/white/cover1b.webp" width="300"></a> |  [The White People](stories/white/README.md), Arthur Machen. |
-| n/a |  The Turn of the Screw, Henry James. |
+| <a href="stories/screw/README.md"><img src="stories/screw/cover1b.webp" width="300"></a> |  [The Turn of the Screw](stories/screw/README.md), Henry James. |
 | n/a |  The Derelict, William Hope Hodgson. |
 | n/a |  The Shadow Over Innsmouth, H. P. Lovecraft. |
 | n/a |  The Dunwich Horror, H. P. Lovecraft. |

@@ -38,7 +38,7 @@ Click the preview to see all art for each story.
 | <a href="stories/white/README.md"><img src="stories/white/cover1b.webp" width="300"></a> |  [The White People](stories/white/README.md), Arthur Machen. |
 | <a href="stories/screw/README.md"><img src="stories/screw/cover1b.webp" width="300"></a> |  [The Turn of the Screw](stories/screw/README.md), Henry James. |
 | <a href="stories/derelict/README.md"><img src="stories/derelict/scene1a.webp" width="300"></a> | [The Derelict](stories/derelict/README.md), William Hope Hodgson. |
-| n/a |  The Shadow Over Innsmouth, H. P. Lovecraft. |
+| <a href="stories/innsmouth/README.md"><img src="stories/innsmouth/scene1b.webp" width="300"></a> |  [The Shadow Over Innsmouth](stories/innsmouth/README.md), H. P. Lovecraft. |
 | n/a |  The Dunwich Horror, H. P. Lovecraft. |
 | n/a |  The Colour Out of Space, H. P. Lovecraft. |
 | n/a |  The Whisperer in Darkness, H. P. Lovecraft. |

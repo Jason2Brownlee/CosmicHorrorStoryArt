@@ -21,9 +21,9 @@ Generate scene summaries:
 
 ```default
 Split the story into between 5 and 10 main scenes.
-Focus on scenes that represent key plot points of the story.
 The series of scenes should tell the main beats of the story from beginning to end.
 The selected scene should be sufficient for a reader to reconstruct the backbone of the story.
+Focus on scenes that represent key plot points of the story with horror elements.
 Describe each of the chosen scenes in sufficient detail that an illustrator may use the description to recreate the scene visually.
 Limit each description to one paragraph.
 ```

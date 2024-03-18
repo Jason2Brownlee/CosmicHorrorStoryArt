@@ -41,7 +41,7 @@ Click the preview to see all art for each story.
 | <a href="stories/innsmouth/README.md"><img src="stories/innsmouth/cover1b.webp" width="300"></a> |  [The Shadow Over Innsmouth](stories/innsmouth/README.md), H. P. Lovecraft. |
 | <a href="stories/dunwich/README.md"><img src="stories/dunwich/cover1b.webp" width="300"></a> |  [The Dunwich Horror](stories/dunwich/README.md), H. P. Lovecraft. |
 | <a href="stories/colour/README.md"><img src="stories/colour/cover1a.webp" width="300"></a> |  [The Colour Out of Space](stories/colour/README.md), H. P. Lovecraft. |
-| n/a |  The Whisperer in Darkness, H. P. Lovecraft. |
+| <a href="stories/whisperer/README.md"><img src="stories/whisperer/cover1a.webp" width="300"></a> |  [The Whisperer in Darkness](stories/whisperer/README.md), H. P. Lovecraft. |
 | n/a |  The Shadow Out of Time, H. P. Lovecraft. |
 | n/a |  The Haunter of the Dark, H. P. Lovecraft. |
 | n/a |  The Thing on the Doorstep, H. P. Lovecraft. |

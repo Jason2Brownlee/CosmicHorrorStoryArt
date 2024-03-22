@@ -44,9 +44,9 @@ Click the preview to see all art for each story.
 | <a href="stories/whisperer/README.md"><img src="stories/whisperer/cover1a.webp" width="300"></a> |  [The Whisperer in Darkness](stories/whisperer/README.md), H. P. Lovecraft. |
 | <a href="stories/shadow/README.md"><img src="stories/shadow/cover1a.webp" width="300"></a> |  [The Shadow Out of Time](stories/shadow/README.md), H. P. Lovecraft. |
 | <a href="stories/haunter/README.md"><img src="stories/haunter/cover1b.webp" width="300"></a> |  [The Haunter of the Dark](stories/haunter/README.md), H. P. Lovecraft. |
-| n/a |  The Thing on the Doorstep, H. P. Lovecraft. |
-| n/a |  At the Mountains of Madness, H. P. Lovecraft. |
-| n/a |  The Call of Cthulhu, H. P. Lovecraft. |
+| <a href="stories/doorstep/README.md"><img src="stories/doorstep/cover1b.webp" width="300"></a> | [The Thing on the Doorstep](stories/doorstep/README.md), H. P. Lovecraft. |
+| n/a | At the Mountains of Madness, H. P. Lovecraft. |
+| n/a | The Call of Cthulhu, H. P. Lovecraft. |
 
 ## Meta
 

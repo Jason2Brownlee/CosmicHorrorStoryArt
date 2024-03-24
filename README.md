@@ -45,7 +45,7 @@ Click the preview to see all art for each story.
 | <a href="stories/shadow/README.md"><img src="stories/shadow/cover1a.webp" width="300"></a> |  [The Shadow Out of Time](stories/shadow/README.md), H. P. Lovecraft. |
 | <a href="stories/haunter/README.md"><img src="stories/haunter/cover1b.webp" width="300"></a> |  [The Haunter of the Dark](stories/haunter/README.md), H. P. Lovecraft. |
 | <a href="stories/doorstep/README.md"><img src="stories/doorstep/cover1b.webp" width="300"></a> | [The Thing on the Doorstep](stories/doorstep/README.md), H. P. Lovecraft. |
-| n/a | At the Mountains of Madness, H. P. Lovecraft. |
+| <a href="stories/mountains/README.md"><img src="stories/mountains/scene2b.webp" width="300"></a> | [At the Mountains of Madness](stories/mountains/README.md), H. P. Lovecraft. |
 | n/a | The Call of Cthulhu, H. P. Lovecraft. |
 
 ## Meta
@@ -54,11 +54,12 @@ Click the preview to see all art for each story.
 
 Thoughts and observations:
 
-* Use an expert to select and describe scenes. When I did this manually, I selected too many and did not understand the scenes well enough to describe them effectively.
+* Use an expert to select and describe scenes. When I did this manually (back in mid 2022 before chatgpt was available), I selected too many and did not understand the scenes well enough to describe them effectively.
 * Use separate roles for 1) scene selection and description, 2) illustration description, 3) illustration generation.
-* Use terms to motivate the consistency of description across scenes and the generation of imagery across scenes.
-* Use terms to encourage the illustrator to be specific about the details of the objects in the scene.
+* Use terms to motivate the consistency of description across scenes and the generation of imagery across scenes (it may help).
+* Use terms to encourage the illustrator to be specific about the details of the objects in the scene (helps a lot).
 * Generated images rarely have all elements in the description, or have them correctly, yet the images often have the right tone and are interesting.
 * The scene description must include as much detail as possible, including objects and their composition.
 
 This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood.substack.com/) and [Interviews With Technical Experts](https://github.com/Jason2Brownlee/TechnicalExperts).
+

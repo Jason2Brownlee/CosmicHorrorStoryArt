@@ -8,7 +8,7 @@ Generative art for selected cosmic horror stories, as an excuse to play with Dal
 
 Each story has its own page with story synopsis, summarized selected scenes, summary of illustration directions, and art generated for the selected scenes.
 
-I focused on short classic horror/cosmic horror stories that are in the public domain. The initial thought was to create an illustrated short story collection, and I still may. I fiddled with the generated art only minimally (e.g. regenerate like this or like that). I am interested in a generally automated process.
+I focused on short classic horror/cosmic horror stories that are in the public domain. The initial thought was to create an illustrated short story collection, and I still may in the future. I fiddled with the generated art only minimally (e.g. regenerate like this or like that). I am interested in a generally automated process.
 
 Stories are listed in the chronological order of generation, hopefully showing an improvement in methods and results.
 
@@ -46,7 +46,7 @@ Click the preview to see all art for each story.
 | <a href="stories/haunter/README.md"><img src="stories/haunter/cover1b.webp" width="300"></a> |  [The Haunter of the Dark](stories/haunter/README.md), H. P. Lovecraft. |
 | <a href="stories/doorstep/README.md"><img src="stories/doorstep/cover1b.webp" width="300"></a> | [The Thing on the Doorstep](stories/doorstep/README.md), H. P. Lovecraft. |
 | <a href="stories/mountains/README.md"><img src="stories/mountains/scene2b.webp" width="300"></a> | [At the Mountains of Madness](stories/mountains/README.md), H. P. Lovecraft. |
-| n/a | The Call of Cthulhu, H. P. Lovecraft. |
+| <a href="stories/cthulhu/README.md"><img src="stories/cthulhu/cover1a.webp" width="300"></a> | [The Call of Cthulhu](stories/cthulhu/README.md), H. P. Lovecraft. |
 
 ## Meta
 
@@ -61,5 +61,10 @@ Thoughts and observations:
 * Generated images rarely have all elements in the description, or have them correctly, yet the images often have the right tone and are interesting.
 * The scene description must include as much detail as possible, including objects and their composition.
 
-This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood.substack.com/) and [Interviews With Technical Experts](https://github.com/Jason2Brownlee/TechnicalExperts).
+Thoughts on extensions:
 
+As an extension, it might be interesting to pick one well known story and one art style and dig in deeper. Perhaps use claude to describe objects and characters in detail and then write highly detailed and consistent scenes and then artist instructions before then passing them onto dalle for generation. I think the large multi-segment approach with claude (e.g. super prompt) may help with consistency. I can imagine this producing interesting results, especially for longer multi-part stories like "At the Mountains of Madness" and "The Call of Cthulhu".
+
+Related works:
+
+This work builds upon prior projects [Bad, Bad, Bad, Good](https://badbadbadgood.substack.com/) and [Interviews With Technical Experts](https://github.com/Jason2Brownlee/TechnicalExperts).
